@@ -1,0 +1,20 @@
+  [2m2024-06-19T09:37:07.556028Z[0m [32m INFO[0m [1;32mchat[0m[32m: [32mListening on: 0.0.0.0:9527[0m
+    [2;3mat[0m src/main.rs:137
+
+  [2m2024-06-19T09:40:00.987954Z[0m [32m INFO[0m [1;32mchat[0m[32m: [32mListening on: 0.0.0.0:9527[0m
+    [2;3mat[0m src/main.rs:120
+
+  [2m2024-06-19T09:42:53.573548Z[0m [32m INFO[0m [1;32mchat[0m[32m: [32mListening on: 0.0.0.0:9527[0m
+    [2;3mat[0m src/main.rs:120
+
+  [2m2024-06-19T09:43:07.972501Z[0m [35mTRACE[0m [1;35mchat[0m[35m: [35m[SYSTEM] - Alex joined the chat[0m
+    [2;3mat[0m src/main.rs:185
+
+  [2m2024-06-19T09:43:27.004000Z[0m [35mTRACE[0m [1;35mchat[0m[35m: [35m[SYSTEM] - John joined the chat[0m
+    [2;3mat[0m src/main.rs:185
+
+  [2m2024-06-19T09:43:43.008190Z[0m [32m INFO[0m [1;32mchat[0m[32m: [32m[SYSTEM] - Alex left the chat[0m
+    [2;3mat[0m src/main.rs:204
+
+[2m2024-06-19T09:48:16.439531Z[0m [32m INFO[0m [2mchat[0m[2m:[0m Listening on: 0.0.0.0:9527
+2024-06-25T08:08:51.389353Z  INFO chat: Listening on: 0.0.0.0:9527
